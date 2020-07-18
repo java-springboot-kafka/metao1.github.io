@@ -1,0 +1,127 @@
+{
+  "/design-patterns": {
+    "type": "experiment",
+    "date": "2014-10-23T15:49:26.733Z",
+    "title": "Design Pattern Guide",
+    "tags": [
+      "design",
+      "software",
+      "patterns",
+      "architecture",
+      "java"
+    ],
+    "src": "/data/archive/design-patterns/2020-07-17.md"
+  },
+  "/#/design-patterns-structural-adapter": {
+    "type": "experiment",
+    "date": "2014-10-23T15:49:26.733Z",
+    "title": "Design Pattern Guide: Structural, Adapter Pattern",
+    "tags": [
+      "design",
+      "software",
+      "patterns",
+      "architecture",
+      "java"
+    ],
+    "src": "/data/archive/design-patterns/structural/adapter/2020-07-18.md"
+  },
+  "/static-web-application": {
+    "type": "experiment",
+    "date": "2014-10-23T15:49:26.733Z",
+    "title": "Static Web Application guide",
+    "tags": [
+      "es5",
+      "static web sites",
+      "offline",
+      "fast",
+      "apps"
+    ],
+    "src": "/data/archive/static-web-application/2015-08-21.md"
+  },
+  "/blog": {
+    "type": "experiment",
+    "date": "2015-03-17T12:49:26.733Z",
+    "title": "This blog :)",
+    "tags": [
+      "es6",
+      "es7",
+      "react",
+      "react-router",
+      "flummox",
+      "lunr",
+      "superagent",
+      "gulp",
+      "webpack"
+    ],
+    "src": "/data/archive/blog/2015-03-17.md"
+  },
+  "/avesty": {
+    "type": "experiment",
+    "date": "2014-10-23T15:49:26.733Z",
+    "title": "Avesty: Beautiful text chat for your community",
+    "tags": [
+      "es5",
+      "avesty",
+      "chat",
+      "node-irc-channel",
+      "engine.io",
+      "babel-core"
+    ],
+    "src": "/data/archive/avesty/2015-04-11.md"
+  },
+  "/s3manager": {
+    "type": "experiment",
+    "date": "2015-03-13T15:49:26.733Z",
+    "title": "Managing files on Amazon S3, as well on any server,",
+    "tags": [
+      "node.js",
+      "jquery",
+      "Amazon Web Services",
+      "aws",
+      "file management",
+      "server",
+      "ftp",
+      "s3"
+    ],
+    "src": "/data/archive/s3manager/2015-03-11.md"
+  },
+  "/watchsite": {
+    "type": "experiment",
+    "date": "2014-10-23T15:49:26.733Z",
+    "title": "WatchSite: a service for monitoring your web site made easy",
+    "tags": [
+      "leaflet",
+      "jquery",
+      "geocoding",
+      "identify",
+      "overlays"
+    ],
+    "src": "/data/archive/watchsite/2015-04-11.md"
+  },
+  "/social-networks-and-information-systems-management": {
+    "type": "experiment",
+    "date": "2016-03-12T15:49:26.733Z",
+    "title": "Social Networks and Information Systems Management",
+    "tags": [
+      "Social Networks",
+      "Information Systems",
+      "Management",
+      "MIS",
+      "Information System Management"
+    ],
+    "src": "/data/archive/social-networks-and-information-systems-management/2016-01-02.md"
+  },
+  "/business-information-systems_design-an-app-for-that": {
+    "type": "experiment",
+    "date": "2016-05-12T15:49:26.733Z",
+    "title": "Business Information Systems: Design an App for That",
+    "tags": [
+      "software Design",
+      "Information Systems",
+      "Management",
+      "MIS",
+      "Information System Management"
+    ],
+    "src": "/data/archive/business-information-systems_design-an-app-for-that/2016-04-05.md"
+  }
+}

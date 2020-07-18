@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>http://metao1.github.io/design-patterns</loc>
+        <lastmod>2020-07-17T00:40:00.381Z</lastmod>
+    </url>
+    <url>
+        <loc>http://metao1.github.io/static-web-application</loc>
+        <lastmod>2016-10-19T20:13:50.381Z</lastmod>
+    </url>
+    <url>
+        <loc>http://metao1.github.io/blog</loc>
+        <lastmod>2016-10-19T20:13:50.381Z</lastmod>
+    </url>
+    <url>
+        <loc>http://metao1.github.io/avesty</loc>
+        <lastmod>2016-10-19T20:13:50.381Z</lastmod>
+    </url>
+    <url>
+        <loc>http://metao1.github.io/s3manager</loc>
+        <lastmod>2016-10-19T20:13:50.381Z</lastmod>
+    </url>
+    <url>
+        <loc>http://metao1.github.io/watchsite</loc>
+        <lastmod>2016-10-19T20:13:50.381Z</lastmod>
+    </url>
+    <url>
+        <loc>http://metao1.github.io/social-networks-and-information-systems-management</loc>
+        <lastmod>2016-10-19T20:13:50.381Z</lastmod>
+    </url>
+    <url>
+        <loc>http://metao1.github.io/business-information-systems_design-an-app-for-that</loc>
+        <lastmod>2016-10-19T20:13:50.381Z</lastmod>
+    </url>
+</urlset>
