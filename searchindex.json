@@ -1,6 +1,6 @@
 {
   "/design-patterns": {
-    "type": "experiment",
+    "type": "archive",
     "date": "2014-10-23T15:49:26.733Z",
     "title": "Design Pattern Guide",
     "tags": [
@@ -10,10 +10,12 @@
       "architecture",
       "java"
     ],
+    "pre": "/",
+    "next": "/design-patterns-structural-adapter",
     "src": "/data/archive/design-patterns/2020-07-17.md"
   },
-  "/#/design-patterns-structural-adapter": {
-    "type": "experiment",
+  "/design-patterns-structural-adapter": {
+    "type": "archive",
     "date": "2014-10-23T15:49:26.733Z",
     "title": "Design Pattern Guide: Structural, Adapter Pattern",
     "tags": [
@@ -23,10 +25,12 @@
       "architecture",
       "java"
     ],
+    "pre": "design-patterns",
+    "next": "static-web-application",
     "src": "/data/archive/design-patterns/structural/adapter/2020-07-18.md"
   },
   "/static-web-application": {
-    "type": "experiment",
+    "type": "archive",
     "date": "2014-10-23T15:49:26.733Z",
     "title": "Static Web Application guide",
     "tags": [
@@ -39,7 +43,7 @@
     "src": "/data/archive/static-web-application/2015-08-21.md"
   },
   "/blog": {
-    "type": "experiment",
+    "type": "archive",
     "date": "2015-03-17T12:49:26.733Z",
     "title": "This blog :)",
     "tags": [
@@ -56,7 +60,7 @@
     "src": "/data/archive/blog/2015-03-17.md"
   },
   "/avesty": {
-    "type": "experiment",
+    "type": "archive",
     "date": "2014-10-23T15:49:26.733Z",
     "title": "Avesty: Beautiful text chat for your community",
     "tags": [
@@ -70,7 +74,7 @@
     "src": "/data/archive/avesty/2015-04-11.md"
   },
   "/s3manager": {
-    "type": "experiment",
+    "type": "archive",
     "date": "2015-03-13T15:49:26.733Z",
     "title": "Managing files on Amazon S3, as well on any server,",
     "tags": [
@@ -86,7 +90,7 @@
     "src": "/data/archive/s3manager/2015-03-11.md"
   },
   "/watchsite": {
-    "type": "experiment",
+    "type": "archive",
     "date": "2014-10-23T15:49:26.733Z",
     "title": "WatchSite: a service for monitoring your web site made easy",
     "tags": [
@@ -99,7 +103,7 @@
     "src": "/data/archive/watchsite/2015-04-11.md"
   },
   "/social-networks-and-information-systems-management": {
-    "type": "experiment",
+    "type": "archive",
     "date": "2016-03-12T15:49:26.733Z",
     "title": "Social Networks and Information Systems Management",
     "tags": [
@@ -112,7 +116,7 @@
     "src": "/data/archive/social-networks-and-information-systems-management/2016-01-02.md"
   },
   "/business-information-systems_design-an-app-for-that": {
-    "type": "experiment",
+    "type": "archive",
     "date": "2016-05-12T15:49:26.733Z",
     "title": "Business Information Systems: Design an App for That",
     "tags": [
