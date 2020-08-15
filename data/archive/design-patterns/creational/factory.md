@@ -1,5 +1,5 @@
-# Creational  patterns
-### Factory pattern
+# Creational design patterns
+## Factory pattern
 
 Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
@@ -162,7 +162,7 @@ public class Demo {
 
 ~ 
 
-#####Real world examples
+#### Real world examples
 ```
 java.swing.Button
 java.swing.JDialog

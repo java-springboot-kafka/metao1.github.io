@@ -1,5 +1,5 @@
-# Design patterns
-### Structural bridge pattern
+# Structural Design patterns
+## Bridge pattern
 
 Bridge design pattern is used to decouple a class into two parts – abstraction and it’s implementation – so that both can evolve in future without affecting each other.
 

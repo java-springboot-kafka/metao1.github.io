@@ -1,2 +1,2 @@
-# Behavioural  patterns
-### Iterator pattern
+# Behavioural design patterns
+## Iterator pattern

@@ -1,5 +1,5 @@
-# Creational  patterns
-### Builder pattern
+# Creational design patterns
+## Builder pattern
 
 Separate the construction of a complex object from its representation so that the same construction process can create different representations.
 
@@ -97,7 +97,7 @@ And then it can be used as:
 var mage = new Hero.Builder(Profession.MAGE, "Riobard").withHairColor(HairColor.BLACK).withWeapon(Weapon.DAGGER).build();
 ~
 
-#####Real world examples
+#### Real world examples
 ```
 java.lang.StringBuilder
 java.nio.ByteBuffer as well as similar buffers such as FloatBuffer, IntBuffer and so on.

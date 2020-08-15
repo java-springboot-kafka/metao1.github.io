@@ -1,5 +1,5 @@
-# Creational  patterns
-### Abstract Factory Pattern
+# Creational design patterns
+## Abstract Factory Pattern
 
 A factory of factories; a factory that groups the individual but related/dependent factories together without specifying their concrete classes.
 
@@ -177,7 +177,7 @@ public class TestDesignPatterns {
 }
 ~
 
-#####Real world examples
+#### Real world examples
 ```
 java.lang.StringBuilder
 java.nio.ByteBuffer as well as similar buffers such as FloatBuffer, IntBuffer and so on.

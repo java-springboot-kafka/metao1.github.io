@@ -1,5 +1,5 @@
-# Creational  patterns
-### Prototype pattern
+# Creational design patterns
+## Prototype  pattern
 
 Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype.
 
@@ -52,7 +52,7 @@ System.out.println(cloned.getName()); // Dolly
 
 ~
 
-#####Real world examples
+#### Real world examples
 ```
 java.lang.Object#clone()
 ```

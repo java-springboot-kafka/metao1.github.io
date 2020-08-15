@@ -1,5 +1,6 @@
-# Design patterns
-### Structural Adapter pattern
+# Structural Design patterns
+## Adapter pattern
+
 Ever tried to use your camera memory card in your laptop. You cannot use it directly simply because there is no port in the laptop which accept it.You must use a compatible card reader.
 You put your memory card into the card reader and then inject the card reader into the laptop. This card reader can be called the adapter.
 

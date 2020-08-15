@@ -10,8 +10,83 @@
       "architecture",
       "java"
     ],
-    "next": "/design-patterns-structural-adapter",
+    "next": "/design-patterns-creational-abstract-factory",
     "src": "/data/archive/design-patterns/2020-07-17.md"
+  },
+  "/design-patterns-creational-abstract-factory": {
+    "type": "archive",
+    "date": "2020-07-23T15:49:26.733Z",
+    "title": "Design Pattern Guide: Abstract Factory",
+    "tags": [
+      "design",
+      "software",
+      "patterns",
+      "architecture",
+      "java"
+    ],
+    "pre": "/design-patterns",
+    "next": "/design-patterns-creational-builder",
+    "src": "/data/archive/design-patterns/creational/abstract-factory.md"
+  },
+  "/design-patterns-creational-builder": {
+    "type": "archive",
+    "date": "2020-07-23T15:49:26.733Z",
+    "title": "Design Pattern Guide: Builder",
+    "tags": [
+      "design",
+      "software",
+      "patterns",
+      "architecture",
+      "java"
+    ],
+    "pre": "/design-patterns-creational-abstract-factory",
+    "next": "/design-patterns-creational-factory",
+    "src": "/data/archive/design-patterns/creational/builder.md"
+  },
+  "/design-patterns-creational-factory": {
+    "type": "archive",
+    "date": "2020-07-23T15:49:26.733Z",
+    "title": "Design Pattern Guide: Factory",
+    "tags": [
+      "design",
+      "software",
+      "patterns",
+      "architecture",
+      "java"
+    ],
+    "pre": "/design-patterns-creational-builder",
+    "next": "/design-patterns-creational-prototype",
+    "src": "/data/archive/design-patterns/creational/factory.md"
+  },
+  "/design-patterns-creational-prototype": {
+    "type": "archive",
+    "date": "2020-07-23T15:49:26.733Z",
+    "title": "Design Pattern Guide: Prototype",
+    "tags": [
+      "design",
+      "software",
+      "patterns",
+      "architecture",
+      "java"
+    ],
+    "pre": "/design-patterns-creational-factory",
+    "next": "/design-patterns-creational-singleton",
+    "src": "/data/archive/design-patterns/creational/prototype.md"
+  },
+  "/design-patterns-creational-singleton": {
+    "type": "archive",
+    "date": "2020-07-23T15:49:26.733Z",
+    "title": "Design Pattern Guide: Singleton",
+    "tags": [
+      "design",
+      "software",
+      "patterns",
+      "architecture",
+      "java"
+    ],
+    "pre": "/design-patterns-creational-prototype",
+    "next": "/design-patterns-behavioral-chain-of-responsibilities",
+    "src": "/data/archive/design-patterns/creational/singleton.md"
   },
   "/design-patterns-behavioral-chain-of-responsibilities": {
     "type": "archive",
@@ -26,7 +101,7 @@
       "architecture",
       "java"
     ],
-    "pre": "/design-patterns",
+    "pre": "/design-patterns-creational-singleton",
     "next": "/design-patterns-structural-adapter",
     "src": "/data/archive/design-patterns/behavioral/cor.md"
   },
@@ -61,25 +136,8 @@
       "java"
     ],
     "pre": "/design-patterns-structural-adapter",
-    "next": "/design-patterns-structural-builder",
-    "src": "/data/archive/design-patterns/structural/bridge/2020-07-19.md"
-  },
-  "/design-patterns-structural-builder": {
-    "type": "archive",
-    "date": "2020-07-25T15:49:26.733Z",
-    "title": "Design Pattern Guide: Builder Pattern",
-    "tags": [
-      "design",
-      "software",
-      "structural",
-      "patterns",
-      "builder",
-      "architecture",
-      "java"
-    ],
-    "pre": "/design-patterns-structural-adapter",
     "next": "/static-web-application",
-    "src": "/data/archive/design-patterns/structural/builder/2020-08-01.md"
+    "src": "/data/archive/design-patterns/structural/bridge.md"
   },
   "/static-web-application": {
     "type": "archive",
