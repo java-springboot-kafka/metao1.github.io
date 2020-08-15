@@ -30,7 +30,7 @@ During the next few months, you implemented several more of those sequential che
 
 3. Someone else suggested that you could speed up the system by returning cached results on repeated requests containing the same data. Hence, you added another check which lets the request pass through to the system only if there’s no suitable cached response.
 
-#####Usage examples: 
+##### Usage examples: 
 The Chain of Responsibility pattern isn’t a frequent guest in a Java program since it’s only relevant when code operates with chains of objects.
 One of the most popular use cases for the pattern is bubbling events to the parent components in GUI classes. Another notable use case is sequential access filters.
 
