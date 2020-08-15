@@ -6440,12 +6440,11 @@ webpackJsonp([0],[
 	                    "class", "finally", "long", "strictfp", "volatile",
 	                    "const", "float", "native", "super", "while"
 	                ]
-	                let arr = cap[2].trim().split(/\n+/);
+	                let arr = cap[2].split(/\n/);
 	                let paragraph = '';
 	                for (let i = -1; i++ < arr.length;) {
 	                    if (arr[i]) {
 	                        let line = arr[i];
-	                        let sentence = '';
 	                        let word = '';
 	                        if (line.trim().startsWith("@")) {
 	                            sentence = '<span class="pun">' + line + '</span>';

@@ -45,7 +45,7 @@
     ],
     "pre": "/design-patterns",
     "next": "/design-patterns-structural-bridge",
-    "src": "/data/archive/design-patterns/structural/adapter/2020-07-18.md"
+    "src": "/data/archive/design-patterns/structural/adapter.md"
   },
   "/design-patterns-structural-bridge": {
     "type": "archive",
