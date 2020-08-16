@@ -888,7 +888,7 @@ pre, code {
 
 @media screen and (max-width: 639px) {
   pre, code {
-    font-size: 1em;
+    font-size: 0.8em;
   }
 }
 
@@ -1063,7 +1063,8 @@ td:first-child {
 
 @media screen and (max-width: 638px) {
   .prettyprint {
-    font-size: 0.8em;
+    font-size: 0.7em;
+    padding: 4px;
   }
 }
 
