@@ -985,7 +985,7 @@ td:first-child {
 
 .operational-btn {
   margin: 4px auto 35px;
-  display: block;
+  display: grid;
   min-height: 78px;
 }
 
@@ -1004,10 +1004,6 @@ td:first-child {
   color: #445542;
 }
 
-.operational-link {
-  display: inline-grid;
-}
-
 @media screen and (max-width: 638px) {
   .operational-link {
     margin: 4px 2px;
@@ -1021,7 +1017,7 @@ td:first-child {
 }
 
 .operational-link span {
-  margin-top: 8px;
+  margin: 8px;
   max-height: 0;
 }
 

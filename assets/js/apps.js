@@ -5964,29 +5964,25 @@ webpackJsonp([0],[
 	                                'Previous'
 	                            ),
 	                            _react2['default'].createElement(
-	                                'span',
-	                                {
-	                                    className: 'navigation-spans' },
-	                                this.state.pre ? "Previous: " : "",
-	                                ' ',
-	                                this.filter(this.state.pre)
-	                            )
-	                        ),
-	                        _react2['default'].createElement(
-	                            'div',
-	                            { className: 'operational-link' },
-	                            _react2['default'].createElement(
 	                                'button',
 	                                { className: 'button button1', disabled: !this.state.next,
 	                                    onClick: function () {
 	                                        return _this2.getResource(_this2.state.next);
 	                                    } },
 	                                'Next'
+	                            )
+	                        ),
+	                        _react2['default'].createElement(
+	                            'div',
+	                            { className: 'operational-link' },
+	                            _react2['default'].createElement(
+	                                'span',
+	                                { className: 'navigation-spans' },
+	                                this.filter(this.state.pre)
 	                            ),
 	                            _react2['default'].createElement(
 	                                'span',
-	                                {
-	                                    className: 'navigation-spans' },
+	                                { className: 'navigation-spans' },
 	                                this.filter(this.state.next)
 	                            )
 	                        )
