@@ -1,66 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"><url>
-<loc>https://onlinejavaclass.com/#/design-patterns</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/design-patterns-creational-abstract-factory</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/design-patterns-creational-builder</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/design-patterns-creational-factory</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/design-patterns-creational-prototype</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/design-patterns-creational-singleton</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/design-patterns-behavioral-chain-of-responsibilities</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/design-patterns-structural-adapter</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/design-patterns-structural-bridge</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/static-web-application</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/blog</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/avesty</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/s3manager</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/watchsite</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/social-networks-and-information-systems-management</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
-<url>
-<loc>https://onlinejavaclass.com/#/business-information-systems_design-an-app-for-that</loc>
-<lastmod>2020-08-16T07:47:12.716Z</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>http://onlinejavaclass.com/design-patterns</loc>
+        <lastmod>2020-07-17T00:40:00.381Z</lastmod>
+    </url>
+    <url>
+        <loc>http://onlinejavaclass.com/static-web-application</loc>
+        <lastmod>2016-10-19T20:13:50.381Z</lastmod>
+    </url>
+    <url>
+        <loc>http://onlinejavaclass.com/blog</loc>
+        <lastmod>2016-10-19T20:13:50.381Z</lastmod>
+    </url>
+    <url>
+        <loc>http://onlinejavaclass.com/avesty</loc>
+        <lastmod>2016-10-19T20:13:50.381Z</lastmod>
+    </url>
+    <url>
+        <loc>http://onlinejavaclass.com/s3manager</loc>
+        <lastmod>2016-10-19T20:13:50.381Z</lastmod>
+    </url>
+    <url>
+        <loc>http://onlinejavaclass.com/watchsite</loc>
+        <lastmod>2016-10-19T20:13:50.381Z</lastmod>
+    </url>
+    <url>
+        <loc>http://onlinejavaclass.com/social-networks-and-information-systems-management</loc>
+        <lastmod>2016-10-19T20:13:50.381Z</lastmod>
+    </url>
+    <url>
+        <loc>http://onlinejavaclass.com/business-information-systems_design-an-app-for-that</loc>
+        <lastmod>2016-10-19T20:13:50.381Z</lastmod>
+    </url>
 </urlset>

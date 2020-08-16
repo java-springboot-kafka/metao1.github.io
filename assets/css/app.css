@@ -1023,6 +1023,7 @@ td:first-child {
 @media screen and (max-width: 638px) {
   .operational-link span {
     max-width: 88px;
+    margin: 0;
   }
 }
 

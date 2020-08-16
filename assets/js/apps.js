@@ -6014,7 +6014,7 @@ webpackJsonp([0],[
 	    }, {
 	        key: 'checkRightSize',
 	        value: function checkRightSize() {
-	            return _reactDeviceDetect.isMobile ? 33 : 60;
+	            return _reactDeviceDetect.isMobile ? 40 : 60;
 	        }
 	    }]);
 	
