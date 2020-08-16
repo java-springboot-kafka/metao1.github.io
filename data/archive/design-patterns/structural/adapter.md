@@ -17,7 +17,7 @@ Take a look at the typical interaction like this:
 
 <ul class="banner-landing-nav" markdown="1">
     <li class="image-part-avatar" markdown="1">
-        ![adapter_design_pattern](data/cv/adapter_sequence.png)    
+        ![adapter_design_pattern](data/archive/design-patterns/structural/assets/adapter_sequence.png)    
     </li>
 </ul>
 

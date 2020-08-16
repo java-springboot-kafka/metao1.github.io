@@ -1,7 +1,7 @@
 {
   "/design-patterns": {
     "type": "archive",
-    "date": "2020-07-23T15:49:26.733Z",
+    "date": "2020-08-15T15:49:26.733Z",
     "title": "Design Pattern Guide",
     "tags": [
       "design",
@@ -15,7 +15,7 @@
   },
   "/design-patterns-creational-abstract-factory": {
     "type": "archive",
-    "date": "2020-07-23T15:49:26.733Z",
+    "date": "2020-08-14T15:49:26.733Z",
     "title": "Design Pattern Guide: Abstract Factory",
     "tags": [
       "design",
@@ -30,7 +30,7 @@
   },
   "/design-patterns-creational-builder": {
     "type": "archive",
-    "date": "2020-07-23T15:49:26.733Z",
+    "date": "2020-08-13T15:49:26.733Z",
     "title": "Design Pattern Guide: Builder",
     "tags": [
       "design",
@@ -45,7 +45,7 @@
   },
   "/design-patterns-creational-factory": {
     "type": "archive",
-    "date": "2020-07-23T15:49:26.733Z",
+    "date": "2020-08-10T15:49:26.733Z",
     "title": "Design Pattern Guide: Factory",
     "tags": [
       "design",
@@ -60,7 +60,7 @@
   },
   "/design-patterns-creational-prototype": {
     "type": "archive",
-    "date": "2020-07-23T15:49:26.733Z",
+    "date": "2020-08-09T15:49:26.733Z",
     "title": "Design Pattern Guide: Prototype",
     "tags": [
       "design",
@@ -75,7 +75,7 @@
   },
   "/design-patterns-creational-singleton": {
     "type": "archive",
-    "date": "2020-07-23T15:49:26.733Z",
+    "date": "2020-08-01T15:49:26.733Z",
     "title": "Design Pattern Guide: Singleton",
     "tags": [
       "design",
@@ -107,7 +107,7 @@
   },
   "/design-patterns-structural-adapter": {
     "type": "archive",
-    "date": "2020-07-18T15:49:26.733Z",
+    "date": "2020-07-12T15:49:26.733Z",
     "title": "Design Pattern Guide: Adapter Pattern",
     "tags": [
       "design",
@@ -124,7 +124,7 @@
   },
   "/design-patterns-structural-bridge": {
     "type": "archive",
-    "date": "2020-07-19T15:49:26.733Z",
+    "date": "2020-07-11T15:49:26.733Z",
     "title": "Design Pattern Guide: Bridge Pattern",
     "tags": [
       "design",
