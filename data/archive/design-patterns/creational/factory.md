@@ -15,7 +15,7 @@ Wikipedia says
 In class-based programming, the factory method pattern is a creational pattern that uses factory methods to deal with the problem of creating objects without having to specify the exact class of the object that will be created. This is done by creating objects by calling a factory method—either specified in an interface and implemented by child classes, or implemented in a base class and optionally overridden by derived classes—rather than by calling a constructor.``
 ```
 
-### Programmatic Example
+###Programmatic Example
 
 Imagine a button that can be shown in Windows or Html pages. Technically the button in Windows has different render process than in browsers like Chrome.
 Let's for now design an interface to define a button!
